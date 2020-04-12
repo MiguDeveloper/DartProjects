@@ -1,6 +1,6 @@
 main(){
   // Comentario de una sola linea
-  final personas = ['Fernando', 'Pedro', 'Carlos']
+  final personas = ['Fernando', 'Pedro', 'Carlos'];
 }
 
 /// Funcion para saludar
